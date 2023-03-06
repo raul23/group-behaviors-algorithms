@@ -30,7 +30,7 @@ Books
 Roberts, Paul. *Artificial Intelligence in Games.* CRC Press, 2022
 ------------------------------------------------------------------
 - `Book website <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ (routledge.com)
-- `amazon.com<https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_  
+- `amazon.com <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_  
 - C# (+Unity) code for all projects from the book @ 
   `routledge.com <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ (ZIP 66.3MB)
 - **Chapter 3: Steering Behaviours**
