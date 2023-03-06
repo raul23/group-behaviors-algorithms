@@ -1,7 +1,7 @@
 ===================
 Flocking algorithms
 ===================
-Exploring and Implementing flocking algorithms
+Exploring and implementing flocking algorithms
 
 .. contents:: **Contents**
    :depth: 5
