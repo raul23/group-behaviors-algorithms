@@ -34,6 +34,7 @@ Roberts, Paul. *Artificial Intelligence in Games.* CRC Press, 2022
 - C# (+Unity) code for all projects from the book @ 
   `routledge.com <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ (ZIP 66.3MB)
 - **Pages referring to flocking:**
+
   - **Chapter 3: Steering Behaviours**
 
     - GROUP BEHAVIOURS (pp.50-54)
