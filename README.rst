@@ -19,7 +19,7 @@ TODO
 - Roberts, Paul. `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_. 
   CRC Press, 2022.
   
-  - C# code for all projects from the book @ 
+  - C# (+Unity) code for all projects from the book @ 
     `routledge.com <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ (ZIP 66.3MB)
   
   - **Chapter 3: Steering Behaviours**
