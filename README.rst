@@ -16,8 +16,9 @@ TODO
 
 **References:**
 
-- `Artificial Intelligence in Games (2023) by Paul Roberts <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_
-
+- Roberts, Paul. `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_. 
+  CRC Press, 2022.
+  
   **Chapter 3: Steering Behaviours**
   
   - GROUP BEHAVIOURS (pp.50-54)
