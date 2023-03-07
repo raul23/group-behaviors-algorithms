@@ -152,6 +152,17 @@ Notes
          </div>
     - Debug lines that are drawn on each zombie in order to indicate where they are going. This is definitely something
       I will add soon since it will greatly help me when implementing other AI algorithms as an important debugging tool.
+      
+      The book's code implement those debug lines for each green zombies:
+      
+      .. raw:: html
+
+         <div align="center">
+          <a href="https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228" target="_blank">
+            <img src="./images/book_debug_lines.png">
+          </a>
+          <p align="center">From Paul Roberts' book <i>Artificial Intelligence in Games</i>, p.57</p>
+         </div>
 
 References
 """"""""""
