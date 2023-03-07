@@ -12,6 +12,14 @@ Algorithms
 ==========
 JavaScript: a port of Paul Roberts' C# implementation of flocking
 -----------------------------------------------------------------
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+      <img src="./images/fullscreen.png">
+    </a>
+  </div>
+
 Description
 """""""""""
 `:information_source:` 
