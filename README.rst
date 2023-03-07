@@ -37,7 +37,7 @@ Description
   by testing different combinations of parameter values and see their output right away in the browser.
   
   Finally, `phaser.js <https://github.com/photonstorm/phaser>`_ is a stable and popular 2D gaming framework 
-  that has lots of interesting features (e.g. collision detection, WebGL renderer) for developing browser-based games and hence ideal 
+  that has lots of interesting features (e.g. collision detection, WebGL renderer) for developing browser-based games and hence good 
   for experimenting with AI for video games.
   
   `:information_source:` 
