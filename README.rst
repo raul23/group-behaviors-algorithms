@@ -287,5 +287,5 @@ Resources
        </a>
       </div>
 
-    A photographer from West Yorkshire has managed to capture an image of a duck composed of thousands of starlings during a murmuration.
-    Peter Lau said there was "no CGI, no Photoshop...just good luck" in capturing the spectacle on camera.
+    "A photographer from West Yorkshire has managed to capture an image of a duck composed of thousands of starlings during a murmuration.
+    Peter Lau said there was "no CGI, no Photoshop...just good luck" in capturing the spectacle on camera."
