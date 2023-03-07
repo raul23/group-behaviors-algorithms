@@ -44,15 +44,6 @@ Description
 
 - The author Paul Roberts implemented the flocking algorithm in C# using the Unity game engine. The flocking algorithm consists of
   three parts: Separation, Alignment and Cohesion.
-  
-  .. raw:: html
-
-      <div align="center">
-       <a href="https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228" target="_blank">
-         <img src="./images/book_project.png">
-       </a>
-       <p align="center">From Paul Roberts' book <i>Artificial Intelligence in Games</i>, p.56</p>
-      </div>
 - Flocking is part of many other kinds of steering behaviors (e.g. wandering or evading) and hence has a weigth associated
   with it (0.25, the lowest value). However, for the sake of this flocking project, I didn't 
   take into account the other behaviors but I will eventually port them all in JavaScript.
@@ -62,6 +53,15 @@ Description
   In the C# game, each zombie is represented as a green dot
   on the screen and can be spawned at specific places and at a certain rate during the game. The user controls a 
   black dot that can shoot at the zombies with the spacebar.
+  
+  .. raw:: html
+
+      <div align="center">
+       <a href="https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228" target="_blank">
+         <img src="./images/book_project.png">
+       </a>
+       <p align="center">From Paul Roberts' book <i>Artificial Intelligence in Games</i>, p.56</p>
+      </div>
   
   `:information_source:` 
   
