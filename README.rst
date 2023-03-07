@@ -157,6 +157,37 @@ Articles
 
 Books
 =====
+Buckland, Mat. *Programming Game AI by Example.* Jones and Bartlett Learning, 2005
+----------------------------------------------------------------------------------
+- `Errata for Programming Game AI by Example <http://www.ai-junkie.com/ai_book2/errata/>`_
+- `Bug Fixes for Programming Game AI by Example <http://www.ai-junkie.com/ai_book2/bugs/>`_
+- `amazon.com <https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782>`_
+- **Pages referring to flocking:**
+
+   85, 113, 118-119
+   
+   **Chapter 3 : How to Create Autonomously Moving Game Agents**
+   
+   - Introduction (p.85)
+   
+      It was based on very simple rules, yet it looked so spontaneous and natural and was mesmerizing to watch. 
+      The programmer who designed the behavior is named Craig Reynolds. He called the flocking birds “boids,” and the simple rules the flocking 
+      behavior emerged from he called “steer- ing behaviors.”
+   
+   - Group Behaviors (p.113)
+   
+      In fact, flocking is a combination of three group behaviors — cohesion, separation, and alignment — all working together.
+      
+   - Flocking (pp.118-119)
+   
+      The lower-level entities following the rules have no idea of the bigger picture; they are only aware of 
+      themselves and maybe a few of their neighbors.
+      
+     Flocking consists of three parts:
+      
+      Flocking, as originally described by Reynolds, is a combination of the three previously described group behaviors: 
+      separation, alignment, and cohesion.
+      
 Millington, Ian. *AI For Games,* Third Edition. CRC Press, 2020
 ---------------------------------------------------------------
 - `amazon.com <https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/0367670569>`_
