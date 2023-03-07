@@ -37,7 +37,7 @@ Instructions
   - **Mass** with 1 as the default
   - You can pause the program by clicking anywhere on the canvas. Then to resume, just click again.
 
-NOTES
+Notes
 """""
 - **Unfinished business**
 
