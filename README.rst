@@ -40,9 +40,11 @@ Description
   that has lots of interesting features (e.g. collision detection, WebGL renderer) for developing browser-based games and hence ideal 
   for experimenting with AI for video games.
   
-  `:information_source:` I want to also port it to C++ since if you try to experiment with higher parameter values
-  (e.g. number of zombies), you will see the JavaScript port lagging when rendering the different sprites on the screen
-  (multiple computations need to happen almost instantly). 
+  `:information_source:` 
+  
+   I want to also port it to C++ since if you try to experiment with higher parameter values
+   (e.g. number of zombies = 1000), you will see the JavaScript port lagging when rendering the different sprites on the screen
+   (multiple computations need to happen almost instantly). 
   
   Also, the JavaScript port was not done primarly with optimization in mind since it was done more as a way to test quickly 
   some cool ideas in AI as applied to video games.
