@@ -10,11 +10,41 @@ Exploring and implementing flocking algorithms
 
 Algorithms
 ==========
-JavaScript
-----------
-**Code:** `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_
+JavaScript: a port of Paul Roberts' C# implementation of flocking
+-----------------------------------------------------------------
+`:information_source:` 
 
-TODO: Code factorization to be done
+ I ported the flocking C# (+ Unity) code from Paul Roberts' book `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_ to JavaScript using the ``phase.js`` 2D game development library.
+
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through you browser via codepen.io
+
+- `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
+- **Instructions:**
+
+  - All green "zombies" (i.e. green balls) influence each other and hence exhibit group behaviors (flocking).
+    The only red "zombie" (i.e. red ball) in the screen is controlled by the user (arrow keys) and is therefore not affected
+    by the other zombies. However, the red zombie can affect other green zombies by moving it
+    within their flocking distance.
+  - Click on the bottom right button '*Open options*' to modify some of the important settings:
+  
+    - **Number of "green zombies"** (i.e. green balls) with 10 as the default
+    - **Flocking distance** (the radius of zombies' circle of influence) with 25 as the default 
+    - **Max speed** with 500 as the default
+    - **Mass** with 1 as the default
+  - You can pause the program by clicking anywhere on the canvas. Then to resume, just click again.
+- **NOTES:**
+
+  - I didn't completely ported the whole flocking C# code to JavaScript:
+ 
+    - I didn't take into account the zombies' field of view (fov) as in the book. Hence, the zombies
+      in the JavaScript port can be considered as having a 360 field of view (you could imagine
+      these creatures as being a superior type of zombie with extra eyes behind their heads :)
+      
+      However, I will eventually incorporate the fov. I just need to investigate more on theUse of Euler and Quaternion
+      in ``phaser.js`` since the fov involves some rotations.
+    - Debug lines that are drawn on each zombie in order to indicate where they are going. This is definitely something
+      I will add soon since it will greatly help me when implementing other AI algorithms as an important debugging tool.
 
 **References:**
 
