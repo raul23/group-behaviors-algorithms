@@ -138,6 +138,18 @@ Notes
       
       However, I will eventually incorporate the fov. I just need to investigate more on the use of Euler and Quaternion
       in ``phaser.js`` since the fov involves some rotations.
+    - No collision detection between the zombies, i.e. they all overlap when occupying the same point in space. 
+      There is a boundary around the canvas that the green zombies can't cross but the red zombie (controlled by the user) can.
+      
+      That's another **TODO** to add. Also add obstacles in the middle of the canvas as in the book.
+      
+      .. raw:: html
+
+         <div align="center">
+          <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+            <img src="./images/overlap.png">
+          </a>
+         </div>
     - Debug lines that are drawn on each zombie in order to indicate where they are going. This is definitely something
       I will add soon since it will greatly help me when implementing other AI algorithms as an important debugging tool.
 
