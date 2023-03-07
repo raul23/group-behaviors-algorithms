@@ -80,6 +80,9 @@ References
 """"""""""
 - Roberts, Paul. `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_. 
   CRC Press, 2022.
+  
+  See the `Books <#roberts-paul-artificial-intelligence-in-games-crc-press-2022>`_ section to know the specific pages
+  from the book that discuss flocking and where to get the book's C# code.
 
 Articles
 ========
