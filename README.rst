@@ -51,7 +51,7 @@ Description
        <a href="https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228" target="_blank">
          <img src="./images/book_project.png">
        </a>
-       <p align="center">From Paul Roberts' book <i>Artificial Intelligence in Games<i/>, p.56</p>
+       <p align="center">From Paul Roberts' book <i>Artificial Intelligence in Games</i>, p.56</p>
       </div>
 - Flocking is part of many other kinds of steering behaviors (e.g. wandering or evading) and hence has a weigth associated
   with it (0.25, the lowest value). However, for the sake of this flocking project, I didn't 
