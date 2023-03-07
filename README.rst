@@ -10,8 +10,8 @@ Exploring and implementing flocking algorithms
 
 Algorithms
 ==========
-JavaScript: a port of Paul Roberts' C# implementation of flocking
------------------------------------------------------------------
+In JavaScript: a port of Paul Roberts' C# implementation of flocking
+--------------------------------------------------------------------
 .. raw:: html
 
    <div align="center">
