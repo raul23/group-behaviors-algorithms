@@ -148,6 +148,28 @@ Articles
 
 Books
 =====
+Millington, Ian. *AI For Games,* Third Edition. CRC Press, 2020
+---------------------------------------------------------------
+- `amazon.com <https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/0367670569>`_
+- **Pages referring to flocking:**
+
+  - **Chapter 3: Movement**
+  
+    - Flocking and Swarming (pp.98-99)
+    
+        Though not the most commonly implemented in a game, flocking is the most commonly cited steering behavior. 
+        It relies on a simple weighted blend of simpler behaviors.
+  - **Chapter 6: Tactical and Strategic AI**
+  
+    - Scalability (p.562)
+    
+       Reynolds’s flocking algorithm, for example, can scale to hundreds of individuals with only minor tweaks to the algorithm.
+  - **Chapter 15: AI-Based Game Genres**
+  
+    - Flocking and Herding Games (pp.965-969)
+    
+       The emergent nature of herding games means that it is impossible to predict the exact behavior until you can build and test it.
+
 Roberts, Paul. *Artificial Intelligence in Games.* CRC Press, 2022
 ------------------------------------------------------------------
 - `Book website <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ (routledge.com)
