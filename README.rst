@@ -93,7 +93,7 @@ Instructions
 - All green "zombies" (i.e. green balls) influence each other and hence exhibit group behaviors (flocking).
   The only red "zombie" (i.e. red ball) in the screen is controlled by the user (arrow keys) and is therefore not affected
   by the other zombies. However, the red zombie can affect other green zombies by moving it
-  within their flocking distance.
+  within their neighborhood as defined by their flocking distance.
   
   .. raw:: html
 
