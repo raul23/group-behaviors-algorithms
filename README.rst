@@ -12,6 +12,8 @@ Algorithms
 ==========
 JavaScript: a port of Paul Roberts' C# implementation of flocking
 -----------------------------------------------------------------
+Description
+"""""""""""
 `:information_source:` 
 
  I ported the flocking C# (+ Unity) code from Paul Roberts' book `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_ to JavaScript using the ``phase.js`` 2D game development library.
@@ -20,20 +22,24 @@ JavaScript: a port of Paul Roberts' C# implementation of flocking
 
 - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen)
 - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
-- **Instructions:**
 
-  - All green "zombies" (i.e. green balls) influence each other and hence exhibit group behaviors (flocking).
-    The only red "zombie" (i.e. red ball) in the screen is controlled by the user (arrow keys) and is therefore not affected
-    by the other zombies. However, the red zombie can affect other green zombies by moving it
-    within their flocking distance.
-  - Click on the bottom right button '*Open options*' to modify some of the important settings:
-  
-    - **Number of "green zombies"** (i.e. green balls) with 10 as the default
-    - **Flocking distance** (the radius of zombies' circle of influence) with 25 as the default 
-    - **Max speed** with 500 as the default
-    - **Mass** with 1 as the default
+Instructions
+""""""""""""
+- All green "zombies" (i.e. green balls) influence each other and hence exhibit group behaviors (flocking).
+ The only red "zombie" (i.e. red ball) in the screen is controlled by the user (arrow keys) and is therefore not affected
+ by the other zombies. However, the red zombie can affect other green zombies by moving it
+ within their flocking distance.
+- Click on the bottom right button '*Open options*' to modify some of the important settings:
+
+  - **Number of "green zombies"** (i.e. green balls) with 10 as the default
+  - **Flocking distance** (the radius of zombies' circle of influence) with 25 as the default 
+  - **Max speed** with 500 as the default
+  - **Mass** with 1 as the default
   - You can pause the program by clicking anywhere on the canvas. Then to resume, just click again.
-- **NOTES:**
+
+NOTES
+"""""
+- **Unfinished business**
 
   - I didn't completely ported the whole flocking C# code to JavaScript:
  
@@ -46,8 +52,8 @@ JavaScript: a port of Paul Roberts' C# implementation of flocking
     - Debug lines that are drawn on each zombie in order to indicate where they are going. This is definitely something
       I will add soon since it will greatly help me when implementing other AI algorithms as an important debugging tool.
 
-**References:**
-
+References
+""""""""""
 - Roberts, Paul. `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_. 
   CRC Press, 2022.
 
