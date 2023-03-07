@@ -48,7 +48,7 @@ Description
   with it (0.25, the lowest value). However, for the sake of this flocking project, I didn't 
   take into account the other behaviors but I will eventually port them all in JavaScript.
 - The author used zombies invading a shopping center in search of fresh brains as a backdrop for a simple game where you will
-  iplement and test different steering behaviors exhibited by the horde of zombies. 
+  implement and test different steering behaviors exhibited by the horde of zombies. 
   
   Each zombie is represented as a green dot
   on the screen and can be spawned at specific places and at a certain rate during the game. The user controls a b
