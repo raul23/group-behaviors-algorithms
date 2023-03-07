@@ -247,3 +247,42 @@ Roberts, Paul. *Artificial Intelligence in Games.* CRC Press, 2022
     - STEERING BEHAVIOURS – PRACTICAL (pp.56-71)
 
       Flocking C# code (for Separation, Alignment and Cohesion) @ pp.59, 68-71
+
+Resources
+=========
+- `Flocking (behavior) <https://en.wikipedia.org/wiki/Flocking_(behavior)>`_ (wikipedia.org)
+
+  **Algorithm**
+  
+   Basic models of flocking behaviour are controlled by three simple rules:
+
+   **Separation**
+      
+   - Avoid crowding neighbours (short range repulsion)
+   **Alignment**
+   
+   - Steer towards average heading of neighbours
+   **Cohesion**
+   
+   - Steer towards average position of neighbours (long range attraction)
+   
+   With these three simple rules, the flock moves in an extremely realistic way, creating complex motion and 
+   interaction that would be extremely hard to create otherwise.
+  
+   A basic implementation of a flocking algorithm has complexity O(n**2) – 
+   each bird searches through all other birds to find those which fall into its environment.
+- `Craig Reynolds' Boids page <http://www.red3d.com/cwr/boids/>`_
+
+   In 1986 I made a computer model of coordinated animal motion such as bird flocks and fish schools. It was based on three 
+   dimensional computational geometry of the sort normally used in computer animation or computer aided design. I called the generic 
+   simulated flocking creatures boids. The basic flocking model consists of three simple steering behaviors which describe how an 
+   individual boid maneuvers based on the positions and velocities its nearby flockmates
+- `Starling murmuration creates duck shape above West Yorkshire <https://www.bbc.com/news/av/uk-england-leeds-55221885>`_ (BBC video)
+
+  .. raw:: html
+
+      <div align="center">
+       <a href="https://www.bbc.com/news/av/uk-england-leeds-55221885" target="_blank">
+         <img src="./images/bbc.png">
+       </a>
+      </div>
