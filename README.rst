@@ -95,6 +95,14 @@ Instructions
       </div>
 - Click on the bottom right button '*Open options*' to modify some of the important settings:
 
+  .. raw:: html
+
+      <div align="center">
+       <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+         <img src="./images/open_options.png">
+       </a>
+      </div>
+
   - **Number of "green zombies"** (i.e. green balls) with 50 as the default
   - **Flocking distance** (the radius of zombies' circle of influence) with 100 as the default 
   - **Max speed** with 500 as the default
