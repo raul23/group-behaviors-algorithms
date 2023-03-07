@@ -277,7 +277,7 @@ Resources
    dimensional computational geometry of the sort normally used in computer animation or computer aided design. I called the generic 
    simulated flocking creatures boids. The basic flocking model consists of three simple steering behaviors which describe how an 
    individual boid maneuvers based on the positions and velocities its nearby flockmates
-- `Starling murmuration creates duck shape above West Yorkshire <https://www.bbc.com/news/av/uk-england-leeds-55221885>`_ (BBC video)
+- `Starling murmuration creates duck shape above West Yorkshire <https://www.bbc.com/news/av/uk-england-leeds-55221885>`_ (BBC video, 7 December 2020)
 
   .. raw:: html
 
@@ -286,3 +286,6 @@ Resources
          <img src="./images/bbc.png">
        </a>
       </div>
+
+    A photographer from West Yorkshire has managed to capture an image of a duck composed of thousands of starlings during a murmuration.
+    Peter Lau said there was "no CGI, no Photoshop...just good luck" in capturing the spectacle on camera.
