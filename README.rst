@@ -12,7 +12,9 @@ Algorithms
 ==========
 JavaScript
 ----------
-TODO
+**Code:** `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_
+
+TODO: Code factorization to be done
 
 **References:**
 
