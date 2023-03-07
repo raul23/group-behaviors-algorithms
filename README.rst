@@ -110,7 +110,7 @@ Notes
       in the JavaScript port can be considered as having a 360 field of view (you could imagine
       these creatures as being a superior type of zombie with extra eyes behind their heads :)
       
-      However, I will eventually incorporate the fov. I just need to investigate more on theUse of Euler and Quaternion
+      However, I will eventually incorporate the fov. I just need to investigate more on the use of Euler and Quaternion
       in ``phaser.js`` since the fov involves some rotations.
     - Debug lines that are drawn on each zombie in order to indicate where they are going. This is definitely something
       I will add soon since it will greatly help me when implementing other AI algorithms as an important debugging tool.
