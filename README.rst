@@ -46,8 +46,8 @@ Description
    (e.g. number of zombies = 1000), you will see the JavaScript port lagging when rendering the different sprites on the screen
    (multiple computations need to happen almost instantly). 
   
-  Also, the JavaScript port was not done primarly with optimization in mind since it was done more as a way to test quickly 
-  some cool ideas in AI as applied to video games.
+   The JavaScript port was not done primarly with optimization in mind since it was done more as a way to test quickly 
+   some cool ideas in AI as applied to video games.
 
 **Description:**
 
