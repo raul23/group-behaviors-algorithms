@@ -37,12 +37,28 @@ Instructions
   The only red "zombie" (i.e. red ball) in the screen is controlled by the user (arrow keys) and is therefore not affected
   by the other zombies. However, the red zombie can affect other green zombies by moving it
   within their flocking distance.
+  
+  .. raw:: html
+
+      <div align="center">
+       <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+         <img src="./images/green_and_red.png">
+       </a>
+      </div>
 - Click on the bottom right button '*Open options*' to modify some of the important settings:
 
-  - **Number of "green zombies"** (i.e. green balls) with 10 as the default
-  - **Flocking distance** (the radius of zombies' circle of influence) with 25 as the default 
+  - **Number of "green zombies"** (i.e. green balls) with 50 as the default
+  - **Flocking distance** (the radius of zombies' circle of influence) with 100 as the default 
   - **Max speed** with 500 as the default
   - **Mass** with 1 as the default
+  
+  .. raw:: html
+
+      <div align="center">
+       <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+         <img src="./images/options.png">
+       </a>
+      </div>
 - You can pause the program by clicking anywhere on the canvas. Then to resume, just click again.
 
 Notes
