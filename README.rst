@@ -141,7 +141,7 @@ Notes
     - No collision detection between the zombies, i.e. they all overlap when occupying the same point in space. 
       There is a boundary around the canvas that the green zombies can't cross but the red zombie (controlled by the user) can.
       
-      That's another **TODO** to add. Also add obstacles in the middle of the canvas as in the book.
+      That's another **TODO**. Also add obstacles in the middle of the canvas as in the book.
       
       .. raw:: html
 
