@@ -50,9 +50,9 @@ Description
 - The author used zombies invading a shopping center in search of fresh brains as a backdrop for a simple game where you will
   implement and test different steering behaviors exhibited by the horde of zombies. 
   
-  Each zombie is represented as a green dot
-  on the screen and can be spawned at specific places and at a certain rate during the game. The user controls a b
-  lack dot that can shoot at the zombies with the spacebar.
+  In the C# game, each zombie is represented as a green dot
+  on the screen and can be spawned at specific places and at a certain rate during the game. The user controls a 
+  black dot that can shoot at the zombies with the spacebar.
   
   `:information_source:` 
   
