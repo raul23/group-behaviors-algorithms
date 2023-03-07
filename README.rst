@@ -26,7 +26,7 @@ Description
 
  I ported the flocking C# (+ Unity) code from Paul Roberts' book `Artificial Intelligence in Games <https://www.amazon.com/Artificial-Intelligence-Games-Paul-Roberts/dp/1032033223/>`_ to JavaScript using the ``phase.js`` 2D game development library.
 
-**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through you browser via codepen.io
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
 - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen)
 - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
