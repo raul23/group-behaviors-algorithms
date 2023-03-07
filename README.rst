@@ -153,7 +153,7 @@ Notes
     - Debug lines that are drawn on each zombie in order to indicate where they are going. This is definitely something
       I will add soon since it will greatly help me when implementing other AI algorithms as an important debugging tool.
       
-      The book's code implement those debug lines for each green zombies:
+      The book's code implement those debug lines for each green zombie:
       
       .. raw:: html
 
