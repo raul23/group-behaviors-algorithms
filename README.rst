@@ -56,7 +56,7 @@ Description
 - Flocking is part of many other kinds of steering behaviors (e.g. wandering or evading) and hence has a weigth associated
   with it (0.25, the lowest value). However, for the sake of this flocking project, I didn't 
   take into account the other behaviors but I will eventually port them all in JavaScript.
-- The author used zombies invading a shopping center in search of fresh brains as a backdrop for a simple game where you will
+- The author used zombies invading a shopping mall in search of fresh brains as a backdrop for a simple game where you will
   implement and test different steering behaviors exhibited by the horde of zombies. 
   
   In the C# game, each zombie is represented as a green dot
