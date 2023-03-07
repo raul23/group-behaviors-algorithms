@@ -47,7 +47,7 @@ Description
    (multiple computations need to happen almost instantly). 
   
    The JavaScript port was not done primarly with optimization in mind since it was done more as a way to test quickly 
-   some cool ideas in AI as applied to video games.
+   some interesting ideas in AI as applied to video games.
 
 **Description:**
 
