@@ -35,7 +35,7 @@ Instructions
   - **Flocking distance** (the radius of zombies' circle of influence) with 25 as the default 
   - **Max speed** with 500 as the default
   - **Mass** with 1 as the default
-  - You can pause the program by clicking anywhere on the canvas. Then to resume, just click again.
+- You can pause the program by clicking anywhere on the canvas. Then to resume, just click again.
 
 Notes
 """""
