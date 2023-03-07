@@ -30,6 +30,45 @@ Description
 
 - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen)
 - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
+- I choose JavaScript because it makes it easy to share code with anyone on the Internet. They can test it live within their 
+  browser without having to install software that might not support all kinds of systems.
+  
+  Also, it is quick and easy to add extra inputs if we want to be able to experiment with AI algorithms
+  by testing different combinations of parameter values and see their output right away in the browser.
+  
+  Finally, `phaser.js <https://github.com/photonstorm/phaser>`_ is a stable and popular 2D gaming framework 
+  that has lots of interesting features (e.g. collision detection, WebGL renderer) for developing browser-based games and hence ideal 
+  for experimenting with AI for video games.
+
+**Description:**
+
+- The author Paul Roberts implemented the flocking algorithm in C# using the Unity game engine. The flocking algorithm consists of
+  three parts: Separation, Alignment and Cohesion.
+- Flocking is part of many other kinds of steering behaviors (e.g. wandering or evading) and hence has a weigth associated
+  with it (0.25, the lowest value). However, for the sake of this flocking project, I didn't 
+  take into account the other behaviors but I will eventually port them all in JavaScript.
+- The author used zombies invading a shopping center in search of fresh brains as a backdrop for a simple game where you will
+  iplement and test different steering behaviors exhibited by the horde of zombies. 
+  
+  Each zombie is represented as a green dot
+  on the screen and can be spawned at specific places and at a certain rate during the game. The user controls a b
+  lack dot that can shoot at the zombies with the spacebar.
+  
+  `:information_source:` 
+  
+   In the JavaScript port, green balls serve as a substitute for zombies and the user controls a
+   red "zombie" which is actually a red ball. The user can control the red "zombie" with the arrow keys, can affect other
+   green "zombies" but can't be affected by them. 
+  
+   The red "zombie" serves as a way of testing how the flocking algorithm works live while the code is running within your browser since
+   you can position the red "zombie" anywhere close enough to a green "zombie" (within its flocking distance). Plus, you can
+   easily change different parameter values (e.g. flocking distance, speed) and re-run the simulation.
+  
+  `:warning:` 
+   
+   I didn't implement yet the field of view (fov) as in the book. Thus, right now the "zombies" have 360 degrees
+   fov as if they have extra eyes behind their heads. I will eventually add this property as soon as I investigate
+   more how rotation (Quaternion, Euler) is done in ``phaser.js``.
 
 Instructions
 """"""""""""
