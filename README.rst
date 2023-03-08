@@ -82,12 +82,6 @@ Description
    The red "zombie" serves as a way of testing how the flocking algorithm works live while the code is running within your browser since
    you can position the red "zombie" anywhere close enough to a green "zombie" (within its flocking distance). Plus, you can
    easily change different parameter values (e.g. flocking distance, speed) and re-run the simulation.
-  
-  `:warning:` 
-   
-   I didn't implement yet the field of view (fov) as in the book. Thus, right now the "zombies" have 360 degrees
-   fov as if they have extra eyes behind their heads. I will eventually add this property as soon as I investigate
-   more how rotation (Quaternion, Euler) is done in ``phaser.js``.
 
 Instructions
 """"""""""""
@@ -133,12 +127,6 @@ Notes
 
   - I didn't completely ported the whole flocking C# code to JavaScript:
  
-    - I didn't take into account the zombies' field of view (fov) as in the book. Hence, the zombies
-      in the JavaScript port can be considered as having a 360 field of view (you could imagine
-      these creatures as being a superior type of zombie with extra eyes behind their heads :)
-      
-      However, I will eventually incorporate the fov. I just need to investigate more on the use of Euler and Quaternion
-      in ``phaser.js`` since the fov involves some rotations.
     - No collision detection between the zombies, i.e. they all overlap when occupying the same point in space. 
       There is a boundary around the canvas that the green zombies can't cross but the red zombie (controlled by the user) can.
       
