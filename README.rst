@@ -124,7 +124,7 @@ Instructions
          <img src="./images/options.png">
        </a>
       </div>
-- You can **pause** the program by clicking anywhere on the canvas. Then to resume, just click again on the canvas.
+- You can **pause** the program by clicking anywhere on the canvas. Then to resume the animations, just click again on the canvas.
 
 Notes
 """""
