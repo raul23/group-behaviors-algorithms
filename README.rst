@@ -18,6 +18,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of flocking
     <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
       <img src="./images/fullscreen.png">
     </a>
+    <p align="center">From the JavaScript port of the flocking C# code</p>
   </div>
 
 Description
