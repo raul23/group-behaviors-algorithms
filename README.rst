@@ -3,6 +3,11 @@ Flocking algorithms
 ===================
 Exploring and implementing flocking algorithms
 
+`:information_source:` 
+
+ I combined flocking with many other steering behaviors (e.g. arrive and flee) into one JavaScript application, 
+ check `Steering behaviors <https://github.com/raul23/steering-behaviors>`_
+
 .. contents:: **Contents**
    :depth: 5
    :local:
