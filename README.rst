@@ -34,7 +34,7 @@ Description
 
 **JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
-- `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen; **Test it live!**)
 - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
 - I choose JavaScript because it makes it easy to share code with anyone on the Internet. They can test it live within their 
   browser without having to install software that might not support all kinds of systems.
